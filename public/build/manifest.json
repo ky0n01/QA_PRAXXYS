@@ -1,0 +1,29 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-d0d5ef2f.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-d0d5ef2f.css"
+    ],
+    "file": "assets/app-ff720905.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/dist/js/adminlte.js": {
+    "file": "assets/adminlte-872160c6.js",
+    "isEntry": true,
+    "src": "resources/js/dist/js/adminlte.js"
+  },
+  "resources/js/plugins/jquery/jquery.min.js": {
+    "file": "assets/jquery.min-c5e04f0d.js",
+    "isEntry": true,
+    "src": "resources/js/plugins/jquery/jquery.min.js"
+  }
+}

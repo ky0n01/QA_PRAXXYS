@@ -1,0 +1,44 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.jsdelivr.net\/npm\/admin-lte@3.2\/dist\/js\/adminlte.min.js 5:409 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')",
+        "source": "javascript",
+        "timestamp": 1725942634750
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:8000\/build\/assets\/adminlte-872160c6.js 4:5353 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1725942634865
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.jsdelivr.net\/npm\/admin-lte@3.2\/dist\/js\/adminlte.min.js 5:409 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')",
+        "source": "javascript",
+        "timestamp": 1725942636582
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:8000\/build\/assets\/adminlte-872160c6.js 4:5353 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1725942636821
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.jsdelivr.net\/npm\/admin-lte@3.2\/dist\/js\/adminlte.min.js 5:409 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')",
+        "source": "javascript",
+        "timestamp": 1725942637906
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost:8000\/build\/assets\/adminlte-872160c6.js 4:5353 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1725942637908
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.jsdelivr.net\/npm\/admin-lte@3.2\/dist\/js\/adminlte.min.js 5:409 Uncaught TypeError: Cannot read properties of undefined (reading 'fn')",
+        "source": "javascript",
+        "timestamp": 1725942639332
+    }
+]
